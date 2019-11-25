@@ -9,7 +9,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/BTBurke/caddy-extauth/examples/services"
+	"github.com/brendony/caddy-extauth/examples/services"
 )
 
 const use string = `
